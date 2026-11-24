@@ -13,6 +13,10 @@ A free-first, evidence-driven research framework for discovering and validating 
 6. [Daily Log Template](05_DAILY_LOG_TEMPLATE.md) — repeatable daily research record.
 7. [Performance Tracking](06_PERFORMANCE_TRACKING.md) — forward evaluation and bias controls.
 8. [Decisions Log](07_DECISIONS_LOG.md) — methodology change history.
+9. [Data Schema](08_DATA_SCHEMA.md) — structured candidate record definitions.
+10. [First Run Checklist](09_FIRST_RUN_CHECKLIST.md) — repeatable manual daily workflow.
+11. [Tools Roadmap](tools/README.md) — staged free-first automation plan.
+12. [Candidate CSV Template](data/candidates_template.csv) — machine-readable candidate register.
 
 ## Market modules
 - [Crypto](markets/crypto/README.md)
