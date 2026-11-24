@@ -100,3 +100,46 @@ Avoid interpreting pre-event volatility as a durable breakout. Recheck timestamp
 - ING commodities feed, Nov 24: https://think.ing.com/downloads/pdf/article/the-commodities-feed-nvidia-led-rally-lifts-gold-and-copper
 - ECB reference rates, Nov 24: https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html?date=2026-11-16
 - US November calendar: https://www.janushenderson.com/en-fi/institutional/article/market-moves-themes-that-mattered-october-2026/
+
+
+---
+
+# 8. Evidence audit — 2026-11-25 update
+
+This section supersedes weaker or conflicting interpretations in the preliminary scan above. Preserve the original snapshot; do not silently rewrite the historical observation.
+
+## Copper — downgrade the bullish contrarian thesis
+- LME copper stocks increased from 274,000 tonnes on Oct 30 to 330,975 tonnes on Nov 23 (about +20.8%). LME 3-month copper fell from $14,250/t to $12,170/t over the same dates.
+- This combination does not support the earlier shorthand that physical tightness is already corroborating a bullish reversal. Warehouse stocks are only one part of the physical balance (they do not include all off-warrant, bonded or exchange inventories), but the observed build is a material caution.
+- **Revised state:** Monitor / no long thesis until inventories, spreads and physical premiums provide corroboration and price establishes a higher low.
+- **Revised provisional score:** 55/100 (from 65). This is a research-priority downgrade, not a probability.
+
+## DELL — separate fundamental quality from trade quality
+- Reuters confirms record Q3 revenue of $54.94B, adjusted EPS $9.45, FY2027 revenue guidance raised to $202B, AI-server outlook raised to $78B and backlog of $132.3B.
+- Price-response snapshots are inconsistent across sources/time stamps: Reddit discussion cited Nov 24 close at $295.17 and a post-release range of $287–$310; ChartExchange showed $297.01 at 3:54pm ET before the close. Do not combine these as if they were one synchronized quote.
+- A social aggregator reported 7-day sentiment: 816 X mentions (44% bullish), 79 Reddit mentions (22% bullish, 17% bearish, 61% neutral), and a strong prediction-market bullish skew from only 37 trades. ChartExchange's live Reddit sample on Nov 24 showed mixed individual posts, not a clean consensus. These are low-to-moderate sample social signals, not institutional flow.
+- **Revised state:** Fundamental research priority, trade setup deferred. Require a stable post-earnings range, a higher low and a breakout with above-average volume; reject if the gap fails and price closes back below the post-release support. No verified synchronized trigger yet.
+- **Revised provisional score:** 70/100 (from 74) until price/volume confirmation. Sentiment is mixed across venues and source methods.
+
+## BTC — strengthen risk-off evidence, keep trigger conditional
+- The Block reported $1.79B weekly spot ETF outflows for the week ending Nov 20 and a further $569.7M net outflow on Nov 23. Its report notes that ETF assets remain materially below September levels.
+- Crypto.news reported BTC near $60,242 on Nov 24, daily RSI 25.69, an intraday low around $59,418, and nearby downside references at $57,010–$57,708. These are source-specific technical references and must be rechecked against a live chart before use.
+- Reddit's Nov 24 r/Bitcoin thread was dominated by bearish/bull-trap framing, but comments also discussed crowded futures longs. Treat this as anecdotal positioning/sentiment, not a representative survey.
+- **Revised state:** Watch only. No short solely because RSI is oversold or sentiment is bearish; a squeeze/reversal is possible. Require a daily close below a verified support level plus confirming spot volume for bearish continuation, or a reclaim of resistance plus improving ETF flows for recovery.
+- **Score remains provisional at 68/100**, with high event/flow risk.
+
+## Macro release status
+- As of the source snapshots retrieved for this audit, the Nov 25 US PCE/GDP calendar still showed actual values blank. Therefore this scan does not claim a post-release market reaction. Recheck BEA primary release and market response after publication.
+- Nov 26 US Thanksgiving closure and Nov 27 shortened session may affect liquidity.
+
+## Sentiment coverage
+- This audit has direct, timestamped Reddit examples for BTC and DELL plus one multi-source DELL aggregator. It does not have a representative, reproducible X/Reddit corpus across all five market groups. Sentiment scores for other instruments remain unverified and must not be interpreted as neutral.
+
+## Revised research queue
+1. DELL — wait for post-earnings range stabilization and a volume-confirmed trigger.
+2. BTC — monitor ETF flows, verified spot structure and derivatives positioning; no automatic contrarian entry.
+3. USD/JPY and EUR/USD — deferred until post-PCE reaction and a synchronized rates/price snapshot are available.
+4. Copper — downgraded; wait for inventory/physical confirmation.
+5. Brent / gold — monitor only; no complete directional setup.
+
+**Run conclusion remains unchanged: no confirmed entry candidate.**
